@@ -1,6 +1,6 @@
-# Trademark Search Results Table
+# Trademark Clone
 
-This project is a React/Next.js application that displays trademark search results in a tabular format using custom UI components. The table shows the details of trademark marks, their statuses, and descriptions, while also providing visual cues for each trademark's status type.
+This project is a Next.js application that displays trademark search results in a tabular format using custom UI components. The table shows the details of trademark marks, their statuses, and descriptions, while also providing visual cues for each trademark's status type.
 
 ## Deployed Site
 
@@ -17,11 +17,8 @@ You can view the live application at [https://trade-markia-clone.vercel.app/).
 
 ## Technologies Used
 
-- **React.js**: JavaScript library for building user interfaces.
 - **Next.js**: React framework for server-side rendering and building static websites.
-- **TypeScript**: Superset of JavaScript that adds static typing.
-- **Shadcn UI**: UI component library used for styling table elements.
+- **TypeScript**: Superset of JavaScript that adds static typing.ts.
 - **Tailwind CSS**: Utility-first CSS framework for custom styling.
-- **Image Optimization**: Next.js `Image` component for optimized image rendering.
-
+-
 
