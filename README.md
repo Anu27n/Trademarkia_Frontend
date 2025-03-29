@@ -20,5 +20,6 @@ You can view the live application at [https://trade-markia-clone.vercel.app/).
 - **Next.js**: React framework for server-side rendering and building static websites.
 - **TypeScript**: Superset of JavaScript that adds static typing.ts.
 - **Tailwind CSS**: Utility-first CSS framework for custom styling.
--
+
+## ANUBHAV JAIN 22BIT0210
 
